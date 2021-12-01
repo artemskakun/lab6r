@@ -1,0 +1,4 @@
+help
+info
+show
+execute_script src/script2.txt
